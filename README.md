@@ -1,5 +1,3 @@
-# Sistema-de-Gestion-para-una-tienda-de-juegos-Oline-
-
 # GameStoreLite - Sistema de Gestión para una Tienda de Videojuegos
 
 Este proyecto es un sistema básico de gestión para una tienda de videojuegos, desarrollado en Python con la biblioteca tkinter para la interfaz de usuario y mysql.connector para la conexión a una base de datos MySQL.
